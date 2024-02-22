@@ -3,9 +3,9 @@
 | Name | Marcos |
 | Surnames | Fernández Pérez |
 | Job Position | SRE |
-| Job Status | Working at Scalefast |
+| Job Status | Working at Edpuzzle |
 
-My name is Marcos and I'm a full time developer currently workins as SRE at Scalefast.
+My name is Marcos and I'm a full time SRE currently working as SRE at Edpuzzle.
 I've being developing since `2018` and I'm a big fan and an enthusiast of modern technologies, developer tools and new improvements to push our code, knowledge and system go further beyond.
 I have plenty of work trying to investigate new technologies, languages and making personal projects for fun and learning and Open Source is my way to go making this small projects.
 
